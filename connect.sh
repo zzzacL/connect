@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 SSID=$(nmcli device wifi list | dmenu -l 7 | awk '{print $1}')
-echo Password:
+echo Password, if none, hit Enter:
 read PASS
 if [ -z "$PASS" ]
 then
