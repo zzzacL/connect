@@ -6,5 +6,5 @@
 <li><b>Note:</b>
   <li>If you have spaces in your SSID, stop it, get some help (same with password).
   <li>Also, if you have no password, just press Enter.
-  <li>This does not work in CLI, I will be releasing a CLI-only version soon.
+  <li>This does not work in CLI, I will be releasing a CLI-only version <a href="https://github.com/zzzacL/connect-cli">here</a>.
 </ul>
